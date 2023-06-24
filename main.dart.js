@@ -60795,7 +60795,7 @@ q=A.cC(a,r,q).w
 s=this.d.ax
 if(s.gp(s)){q=$.v4.U()
 p=$.cf.U()
-q=A.qr(A.PD(A.a([B.wv,A.qM(A.aH(255,128,61,181),15*(p/3)/100,B.p,r,"Loading Wallet...",r,B.bj,2*q/100)],t.Y),B.b1,B.dE),r,r)}else q=A.lc(r,r,B.Ck,r,r,4.0696*p.a.b/100,r,r,r,q.a.a)
+q=A.qr(A.PD(A.a([B.wv,A.qM(A.aH(255,128,61,181),15*(p/3)/100,B.p,r,"Loading Wallet...",r,B.bj,2*q/100)],t.Y),B.b1,B.dE),r,r)}else q=A.lc(r,r,B.Ck,r,r,3.0176*p.a.b/100,r,r,r,q.a.a)
 return A.a9a(r,q,!0,r)}}
 A.a5s.prototype={
 $1(a){var s=this.a
