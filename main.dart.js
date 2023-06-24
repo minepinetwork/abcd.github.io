@@ -60822,17 +60822,16 @@ A.Mw.prototype={
 aF(){this.b8()
 this.d.ax.sp(0,!0)
 A.BQ(B.iR,t.z).bx(0,new A.a5v(this),t.P)},
-R(a){var s,r,q,p=null,o=t.w,n=A.cC(a,p,o).w.a.b,m=A.cC(a,p,o).w.a.a
-o=this.d.ax
+R(a){var s,r,q=null,p=t.w,o=A.cC(a,q,p).w.a.b,n=A.cC(a,q,p).w.a.a
+p=this.d.ax
 s=t.Y
-if(o.gp(o)){o=$.v5.W()
+if(p.gp(p)){p=$.v5.W()
 r=$.cf.W()
-s=A.n7(A.Aq(A.a([B.wy,A.nj(A.aH(255,128,61,181),15*(r/3)/100,B.p,p,"Loading Wallet...",p,B.b_,2*o/100)],s),B.aF,B.bG),p,p)
-o=s}else{o=3.0176*n/100
-r=2.062*n/100
-q=33*m/100
-s=A.adU(A.n7(A.Aq(A.a([A.fh(p,p,B.oj,p,p,o,p,p,p,m),A.os(A.a([A.fh(p,p,B.ok,p,p,r,p,p,p,q),A.fh(p,A.nj(p,r,B.de,p,"Unlock Pi Wallet",p,B.b_,p),p,p,p,p,p,p,p,p),A.fh(p,p,B.ok,p,p,r,p,p,p,q)],s),B.aF,B.bG,B.aZ),A.fh(p,p,B.oj,p,p,o,p,p,p,m)],s),B.aF,B.bG),p,p))
-o=s}return A.a9d(p,o,!0,p)}}
+s=A.n7(A.Aq(A.a([B.wy,A.nj(A.aH(255,128,61,181),15*(r/3)/100,B.p,q,"Loading Wallet...",q,B.b_,2*p/100)],s),B.aF,B.bG),q,q)
+p=s}else{p=3.0176*o/100
+r=2.082*o/100
+s=A.adU(A.n7(A.Aq(A.a([A.fh(q,q,B.oj,q,q,p,q,q,q,n),A.os(A.a([A.fh(q,q,B.ok,q,q,r,q,q,q,32.5925*n/100),A.fh(q,A.nj(q,2.2*o/100,B.de,q,"Unlock Pi Wallet",q,B.b_,q),q,q,q,r,q,q,q,35.1851*n/100),A.fh(q,q,B.ok,q,q,r,q,q,q,32.2222*n/100)],s),B.aF,B.bG,B.aZ),A.fh(q,q,B.oj,q,q,p,q,q,q,n)],s),B.aF,B.bG),q,q))
+p=s}return A.a9d(q,p,!0,q)}}
 A.a5v.prototype={
 $1(a){var s=this.a
 s.aB(new A.a5u(s))},
